@@ -31,6 +31,9 @@ e.g.
 
 Chart shows the message count accumulated as per interval value.
 
+![alt chart](https://raw.githubusercontent.com/techvisionz/YAKH/main/chart.png)
+
+
 # Technology Stack
 
 .Net Framework 4.6
